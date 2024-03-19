@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liliane Cardeal welcome to my profile!
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning: Python, C# and Jira Software
-- 📫 How to reach me, my linkedin: https://www.linkedin.com/in/lilianecardeal/
+- 📫 Contact me through my Linkedin: https://www.linkedin.com/in/lilianecardeal/
 
 
 <!---
